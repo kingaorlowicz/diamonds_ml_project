@@ -4,14 +4,14 @@ A data analysis and machine learning project focused on bulding regression model
 
 ## dataset overview
 The dataset contains 10 attributes of almost 54000 diamonds.
--**price:** price in US dollars (numeric)
--**carat:** weight of the diamond (numeric)
--**cut:** quality of the cut (categorical)
--**color:** diamond color (categorical)
--**clarity:** diamond clarity (categorical)
--**depth** total depth percentage (numeric)
--**table:** width of top of diamond relative widest point (numeric)
--**x,y,z:** length, width, depth in mm (numeric)
+- **price:** price in US dollars (numeric)
+- **carat:** weight of the diamond (numeric)
+- **cut:** quality of the cut (categorical)
+- **color:** diamond color (categorical)
+- **clarity:** diamond clarity (categorical)
+- **depth** total depth percentage (numeric)
+- **table:** width of top of diamond relative widest point (numeric)
+- **x,y,z:** length, width, depth in mm (numeric)
 
 ## table of content
 - EDA
